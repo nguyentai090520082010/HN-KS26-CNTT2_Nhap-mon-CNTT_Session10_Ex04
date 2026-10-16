@@ -9,9 +9,9 @@ Hãy giải thích khái niệm **"Mô hình IPO (Input - Process - Output) tron
 Để sinh viên dễ hình dung, hãy phân tích mô hình này thông qua một ví dụ thực tế cụ thể: **Hệ thống tưới cây tự động dựa trên độ ẩm của đất**.
 
 ## 3. Yêu cầu & Ràng buộc
-- [ ] **Ngôn ngữ & Thuật ngữ**: Sử dụng 100% tiếng Việt tự nhiên, diễn đạt trong sáng. Tránh lạm dụng thuật ngữ tiếng Anh chuyên ngành. Nếu bắt buộc phải sử dụng thuật ngữ tiếng Anh (như Input, Process, Output), phải giải thích nghĩa tiếng Việt ngay trong ngoặc đơn bên cạnh.
-- [ ] **Độ dài & Định dạng**: Câu trả lời ngắn gọn, cô đọng, tổng độ dài dưới 400 từ. Sử dụng danh sách gạch đầu dòng và định dạng bôi đậm để tăng tính trực quan.
-- [ ] **Cấu trúc nội dung**:
+ **Ngôn ngữ & Thuật ngữ**: Sử dụng 100% tiếng Việt tự nhiên, diễn đạt trong sáng. Tránh lạm dụng thuật ngữ tiếng Anh chuyên ngành. Nếu bắt buộc phải sử dụng thuật ngữ tiếng Anh (như Input, Process, Output), phải giải thích nghĩa tiếng Việt ngay trong ngoặc đơn bên cạnh.
+ **Độ dài & Định dạng**: Câu trả lời ngắn gọn, cô đọng, tổng độ dài dưới 400 từ. Sử dụng danh sách gạch đầu dòng và định dạng bôi đậm để tăng tính trực quan.
+ **Cấu trúc nội dung**:
   1. Định nghĩa ngắn gọn mô hình IPO.
   2. Phân tích ví dụ hệ thống tưới cây theo 3 bước Input - Process - Output.
   3. Kết luận về ý nghĩa cốt lõi của mô hình đối với sinh viên CNTT.
